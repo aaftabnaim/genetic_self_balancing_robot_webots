@@ -5,4 +5,4 @@ This is a simple simulation of  a self balancing robot which learns its LQR para
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=JL86DjshszE&t=2s
 " target="_blank"><img src="https://img.youtube.com/vi/JL86DjshszE/maxresdefault.jpg" 
-alt="IMAGE ALT TEXT HERE" width="1280" height="720" border="20" /></a>
+alt="IMAGE ALT TEXT HERE" width="920" height="520" border="20" /></a>
